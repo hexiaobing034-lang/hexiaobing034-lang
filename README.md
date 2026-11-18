@@ -6,7 +6,7 @@
 
 深圳大学 · 网络与新媒体（网络传播方向）· 2024 级
 
-[作品集](https://hexiaobing034-lang.github.io/profilewebsite/) · [在线试玩](https://hexiaobing034-lang.github.io/offline-earthquake-game/) · [小红书 @水水ni](https://www.xiaohongshu.com/user/profile/62e743590000000019022281) · [Email](mailto:2214033343@qq.com)
+[作品集](https://hexiaobing034-lang.github.io/profilewebsite/) · [小红书 @水水ni](https://www.xiaohongshu.com/user/profile/62e743590000000019022281) · [Email](mailto:2214033343@qq.com)
 
 </div>
 
@@ -37,9 +37,8 @@
 
 | 项目 | 一句话 | 在线体验 |
 | --- | --- | --- |
-| [offline-earthquake-game](https://github.com/hexiaobing034-lang/offline-earthquake-game) | 面向课堂的离线地震避险互动答题网页，双击即用 | [试玩](https://hexiaobing034-lang.github.io/offline-earthquake-game/) |
 | [profilewebsite](https://github.com/hexiaobing034-lang/profilewebsite) | 作品集网站静态源码 | [访问](https://hexiaobing034-lang.github.io/profilewebsite/) |
-| [pomodoro-day](https://github.com/hexiaobing034-lang/pomodoro-day) | 数据只存在浏览器里的番茄钟与今日任务 | — |
+| [pomodoro-day](https://github.com/hexiaobing034-lang/pomodoro-day) | 数据只存在浏览器里的番茄钟与今日任务 | [试用](https://hexiaobing034-lang.github.io/pomodoro-day/) |
 
 ## 工具栈
 
